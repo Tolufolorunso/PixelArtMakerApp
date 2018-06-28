@@ -1,5 +1,4 @@
 # My project, Pixel Art Maker App
-# link 
 #  [link to my github page here](https://tolufolorunso.github.io/)
 
 ## Table of Contents
