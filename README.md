@@ -1,5 +1,5 @@
 # My project, Pixel Art Maker App
-#  [link to my github page here](https://tolufolorunso.github.io/)
+#  [link to my github page here](https://tolufolorunso.github.io/pixelArtMaker/.)
 
 ## Table of Contents
 
